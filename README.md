@@ -78,7 +78,7 @@ class config:
 
 这里只运行了76个epoch就停止了，因为可能会过拟合：
 
-![image[](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)](https://github.com/taishan1994/pytorch_chinese_QANet_cmrc2018/blob/main/image/result.png)
+![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
 
 结果：best_em：35.28966300643695 best_f1：35.73951228627487
 
