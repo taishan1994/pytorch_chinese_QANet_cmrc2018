@@ -1,0 +1,2 @@
+# pytorch_chinese_QANet_cmrc2018
+基于QANet的中文阅读理解。
